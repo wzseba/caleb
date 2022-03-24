@@ -13,6 +13,6 @@ function validString(llaves) {
 
 
 
-    console.log(arreglo);
+    return arreglo;
 }
 validString('[({})]]');
